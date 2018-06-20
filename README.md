@@ -9,4 +9,4 @@
 
 ## Deploy
 
-Just copy `public/*` to `mahata-ja.github.io` repo and commit & push the files (NOTE: the branch name must be `gh-pages`).
+Just copy `public/*` to `mahata-ja.github.io` repo and commit & push the files.
